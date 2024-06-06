@@ -5,6 +5,6 @@ layout: default
 ## Chose your OS to get started
 ### Android
 ### Linux
-### Windows
+### [Windows](./windows.html)
 ### iOS
 ### macOS
