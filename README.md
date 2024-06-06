@@ -1,5 +1,4 @@
-# How to: Type Mandarin without wanting to commit sudoku
-
+# Chose your OS to get started
 ## Android
 ## Linux
 ## Windows
