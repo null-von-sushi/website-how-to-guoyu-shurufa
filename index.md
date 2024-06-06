@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Chose your OS to get started
 ### Android
 ### Linux
