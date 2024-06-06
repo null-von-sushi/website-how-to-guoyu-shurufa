@@ -1,4 +1,7 @@
-# website-how-to-guoyu-shurufa
-Mandarin IME / 國語輸入法
+# How to: Type Mandarin without wanting to commit sudoku
 
-test
+## Android
+## Linux
+## Windows
+## iOS
+## macOS
