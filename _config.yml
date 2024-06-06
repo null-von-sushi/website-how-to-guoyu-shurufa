@@ -1,4 +1,8 @@
 title: How to type Mandarin
 description: ... without wanting to commit sudoku
 theme: jekyll-theme-cayman
-title: How to type Mandarin
+
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
