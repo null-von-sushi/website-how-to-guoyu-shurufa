@@ -7,6 +7,9 @@
 ### RIME
 It supports basically everything you want, including proper traditional chinese punctuation and filtering pinyin by tones.
 
+- [Installation](#installing-rime)
+- 
+
 #### Installing RIME
 [latest release on Github](https://github.com/rime/weasel/releases/latest)
 
