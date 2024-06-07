@@ -64,5 +64,5 @@ Some people prefer Google Zhuyin Input's automatic word suggestions, and it has 
 
 The disadvantages will be the lack of Material You theming, no custom dictionary entries and no 'pinyin bug' that Gboard has.
 
-####Installation
+#### Installation
 [Google Zhuyin Input on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.zhuyin)
