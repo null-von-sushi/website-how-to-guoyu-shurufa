@@ -3,8 +3,6 @@
  - Baidu or Sogou, unless you like playing fast and loose with data security and privacy. Please think carefully about who's data you are putting at risk (contacts in your address book for example).
 
 ## Do use:
- - GBoard
- - Google Zhuyin Input
 
 | IME                 | Can type pinyin   | Can *show* you pinyin          | Can punctuate correctly via touch |  Can punctuate correctly via physical keyboard |
 |:--------------------|:------------------|:-------------------------------|:----------------------------------|:-----------------------------------------------|
