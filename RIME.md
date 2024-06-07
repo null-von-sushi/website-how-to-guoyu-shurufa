@@ -8,6 +8,7 @@ By default, the tones are entered as follows:
  - `\` is fourth tone. So `hui\` would be `huì`, which would give you `會`.
 
 ### Customizing RIME
-You can find the files for RIME at `C:/Program Files/RIME/Weasel/` on Windows.
+🐧 You can find the user files for RIME at `$HOME/.config/ibus/rime/` if using iBus. It's recommended you read the [Arch Wiki for this topic](https://wiki.archlinux.org/title/Rime), even if not using Arch.
+🪟 You can find the files for RIME at `C:/Program Files/RIME/Weasel/` on Windows.
 The `.schema.yaml` files are the ones that define a layout. With a text editor you can change a few things (such as disabling the shift button from enabling alphabet mode, forcing ROC standard characters rather than variant characters used over in Singapore or mainland China (為 instead of 爲 etc.), and more. 
 
