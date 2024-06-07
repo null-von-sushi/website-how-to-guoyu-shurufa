@@ -8,7 +8,9 @@
 It supports basically everything you want, including proper traditional chinese punctuation and filtering pinyin by tones.
 
 - [Installation](#installing-rime)
-- 
+- [Customization](#customizing-rime)
+- [How to type with tones](#customizing-rime)
+- [How to use simplified characters](#customizing-rime)
 
 #### Installing RIME
 [latest release on Github](https://github.com/rime/weasel/releases/latest)
