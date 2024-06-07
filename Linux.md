@@ -6,7 +6,7 @@ It supports basically everything you want, including proper traditional chinese 
 - [Installation](#installing-rime)
 - [Customization](#customizing-rime)
 - [How to type with tones](#using-terra-pinyin-地球拼音-in-rime)
-- [How to use simplified characters](#using-terra-pinyin-with-simplified-chinese-characters)
+- [Enabling Taiwanese Mandarin](#using-terra-pinyin-with-chinese-characters-adhering-to-the-taiwanese-roc-standard)
 
 #### Installing RIME
 
