@@ -38,7 +38,9 @@ For example, you're trying to type "Bubble Tea", but you only vaguely remember t
 
 So normally you might type `zznaicha` and tap the first suggestion: `珍珠奶茶`. But how does that help you learn the word or tone? 
 Well, with Gboard you can *tap and hold* the suggestion to show the pinyin. If you set it up correctly, it will look like so: 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+![Gboard-bug](https://raw.githubusercontent.com/null-von-sushi/website-how-to-guoyu-shurufa/main/assets/gboard-bug.png)
+
 
 In order to enable this, first go into the Gboard options, and add both the languages Chinese Traditional/Chinese Simplified (pick your preferred one), and Cantonese. Cantonese is it's own language, it's not shown under "Chinese". Once you added Cantonese, enable the "Romanisation" layout (it used to be called Jyutping, and might still be called that if you haven't updated the app), then enable the "show canonical romanisation" option.
 Now go to any text window, and switch to Cantonese (粵語拼音). Type "o" and tap-and-hold the first suggestion: 我. If you tap and hold 我 it should show you ngo above the character now. Cool, now switch to your mandarin layout and try typing nihao. It should show you ni3 hao3. If it worked correctly, you can now go back into Gboard settings and remove the Cantonese layouts. The "show caninical romanisation" option seems to apply to Mandarin too, despite there not being a setting for it under the Chinese language option.
