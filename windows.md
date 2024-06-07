@@ -18,7 +18,9 @@ It supports basically everything you want, including proper traditional chinese 
 The installer & options are unfortunately only in chinese at the time of this writing ([although that should change soon](https://github.com/rime/weasel/pull/900)). You can use google lens / google translate's camera feature for now. Once installed it has probably the best IME you can get.
 
 #### Customizing RIME
-You can find the files for RIME at `C:/Program Files (x86)/RIME/Weasel/` on Windows.
+If you right click the tray icon and select the option with (S), it opens the settings. The first page is a list of supported layouts. Press `中` to go to the next page, where you can change the theme. Press `中` a final time to save the settings. 
+
+If you need to edit files manually, you can find the files for RIME at `C:/Program Files (x86)/RIME/Weasel/` on Windows.
 
 The `.schema.yaml` files are the ones that define a layout. With a text editor you can change a few things (such as disabling the shift button from enabling alphabet mode, forcing ROC standard characters rather than variant characters used over in Singapore or mainland China (為 instead of 爲 etc.), and more. 
 
