@@ -28,5 +28,6 @@ By default, the tones are entered as follows:
 
 #### Using Terra Pinyin with simplified chinese characters
  - Drop [this file](https://raw.githubusercontent.com/null-von-sushi/website-how-to-guoyu-shurufa/main/RIME/Windows_CN/terra_pinyin_cn.schema.yaml) to `C:\Program Files (x86)\RIME\Weasel\data` (note that the `Weasel` folder will likely be called `weasel-0.14` or whatever version you installed, instead of *just* 'Weasel'.
- - Drop [this file] at `%appdata%\Rime` and replace the existing file.
  - Then right click the tray icon for RIME, and select the option with (R) to restart.
+ - Right click the tray icon again, select the one with (S) for settings, then untick all except `地球拼音 (異體字）`. Press the `中` button to confirm.
+ - Finally right click the tray icon for RIME, and select the option with (R) to restart RIME a final and last time.
