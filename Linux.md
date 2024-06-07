@@ -39,7 +39,7 @@ By default, the tones are entered as follows:
  - Then set it as the active layout:
    - (if using ibus) Edit `$HOME/.config/ibus/rime/default.custom.yaml` and make it look like bellow. Then restart ibus.
 
-<details> <summary> contents of 'default.custom.yaml' <b>(click to open) </summary>
+<details> <summary> contents of 'default.custom.yaml' <b>(click to open)</b> </summary>
 
 ```
 patch:
