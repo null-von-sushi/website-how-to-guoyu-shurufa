@@ -14,6 +14,7 @@ The installer & options are unfortunately only in chinese at the time of this wr
 
 #### Customizing RIME
 You can find the files for RIME at `C:/Program Files (x86)/RIME/Weasel/` on Windows.
+
 The `.schema.yaml` files are the ones that define a layout. With a text editor you can change a few things (such as disabling the shift button from enabling alphabet mode, forcing ROC standard characters rather than variant characters used over in Singapore or mainland China (為 instead of 爲 etc.), and more. 
 
 #### Using Terra Pinyin (地球拼音） in RIME
